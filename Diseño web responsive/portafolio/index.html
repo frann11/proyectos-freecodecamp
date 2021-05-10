@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<style type="text/css">
+		@import url('https://fonts.googleapis.com/css2?family=Bitter&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+		@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+		h1{
+			font-family: 'Bitter', serif;
+			letter-spacing: 3px;
+		 	text-shadow: 0px 2px #000000;
+		 	text-indent: 0;
+		 	margin-bottom: 0}
+		
+		ul{
+			margin:0;
+
+			display: flex;
+		}
+		p{
+			font-family: 'Roboto', sans-serif;
+		}
+		li{
+			font-family: 'Roboto', sans-serif;
+			list-style: none;
+			margin: 0;
+			height: 4em;
+			display: block;
+			color:white;
+			line-height: 4em;
+			padding-left: 2em;
+			padding-right: 2em;
+			font-size:1em;
+
+
+		}
+		li:hover{
+			background-color: rgba(255, 255, 255, 0.43);
+		}
+		#contacto:hover{
+			transform: scale(1.5);
+		}
+		a{
+			text-decoration: none;
+			color:white;
+		}
+
+	</style>
+</head>
+<body style="padding:0;margin:0;">
+	<div id='container' style="display: block;">
+		<navbar id='navbar'>
+			<div style='width: 100%;height:4em;padding: 0;margin:0 ; background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(226,37,37,1) 0%, rgba(211,49,49,1) 82.8% );position:fixed;top:0;display: flex;box-shadow: 0px 2px 10px 1px #000000;'>
+				<div style="width: 80%">
+				</div>
+				<div>
+				<ul>
+					<li><a href="#welcome-section">Acerca</a></li>
+					<li><a href="#projects">Trabajo</a></li>
+					<li><a href="#contact">Contacto</a></li>
+				</ul>
+				</div>
+			</div>
+		</navbar>
+	<section id='welcome-section'>
+		<div id="primerpagina" style="color:white;background: black;height: 99vh;display: flex;align-items: center;text-align: center;justify-content: center;background: rgb(34,193,195);
+	background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(90,92,106,1) 0%, rgba(32,45,58,1) 81.3% );border-bottom-color: white;border-bottom-width: 1px;border-bottom-style: solid;">
+			<div><h1>Hola, soy Francisco.</h1><p style="color:#FE1E08">Desarrollador Frontend</p></div>
+		</div>
+	</section>
+
+	<section id='projects'>
+	<div id="segundapagina "style="height: 100vh;background: rgba(32,50,80,1);border-bottom-color: white;border-bottom-width: 1px;border-bottom-style: solid;display: flex;flex-direction:column;justify-content: center;">
+			<h2 style="color:white;margin-top: 5%;width: 100%;text-align: center;">Mis proyectos</h2>
+			<div id="proyectos" style="padding: 4%;padding-left: 10%">
+				<div>
+					<a href="https://codepen.io/frann11/pen/ExWaGex">
+						<img id='project-tile'src="pagina tributo.png" >
+					</a>
+					<a href="https://codepen.io/frann11/pen/abJOmOX">
+						<img id='project-tile' src="pagina de producto.png" >
+					</a>
+					<a href="https://codepen.io/frann11/pen/yLMNNRY">
+						<img id='project-tile' src="formulario.png" >
+					</a>
+					<a href="https://codepen.io/frann11/pen/zYZGWQL">
+						<img src="documentacion tecnica.png" >
+					</a>
+					</div>
+			</div>
+	
+	</div>
+	</section>
+
+	<section id='contact'></section>
+	<div id="segundapagina "style="height: 15vh;background-color: black;display: flex;justify-content: space-between;">
+		<a id='profile-link' href="https://www.github.com/frann11" target="_blank" style="margin-left: 25%;margin-top: 2%"><img id='contacto' src="PngItem_1280311.png" style="max-height: 50px;width: auto;" ></a><a href="https://www.twitter.com" target="_blank" style="margin-top: 2%"><img src="twitter-xxl.png" id='contacto' style="max-height: 50px;width: auto;" ></a><a href="https://www.whatsapp.com" style="margin-top:2%;margin-right:25%;"><img id='contacto' src="whatsapp-xxl.png" style="max-height: 50px;width: auto;margin-top: 2%" ></a>
+		
+	</div>
+	<div id="segundapagina "style="height: 10vh;background-color: black;display: flex;justify-content: center;text-align: center">
+		<div><p style="color:white;align-content: center">© Francisco Berthet 2021 <br>Para freecodecamp.com </p></div> >
+	</div>
+		
+	</div>
+	</div>
+
+
+
+
+</body>
+</html>
