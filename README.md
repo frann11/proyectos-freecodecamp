@@ -10,7 +10,7 @@ Diseño Web Responsive:<br>
 * Accesibilidad Aplicada
 * Principios del diseño web Responsive
 * CSS Flexbox
-* CSS Grida<br>
+* CSS Grids<br>
 <a href="https://github.com/frann11/proyectos-freecodecamp/tree/main/Dise%C3%B1o%20web%20responsive">Proyectos de Diseño web Responsive</a>
 
 Algoritmos de Java y estructura de datos:<br>
