@@ -2,7 +2,7 @@
 Resoluciones a los proyectos propuestos para las certificaciones de freecodecamp
 
 <h2> Temario </h2>
-Diseño Web Responsive: <br>
+<h3>Diseño Web Responsive:</h3> <br>
 (https://www.freecodecamp.org/learn/responsive-web-design/)
 * Html y HML5 Basico
 * CSS Basico
@@ -13,7 +13,7 @@ Diseño Web Responsive: <br>
 * CSS Grid
 * <a href="https://github.com/frann11/proyectos-freecodecamp/tree/main/Dise%C3%B1o%20web%20responsive">Proyectos de Diseño web Responsive</a>
 
-Algoritmos de Java y estructura de datos: <br>
+<h4>Algoritmos de Java y estructura de datos:</h4> <br>
 (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * Javascript basico
 * ES6
