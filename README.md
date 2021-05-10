@@ -1,4 +1,4 @@
-# proyectos-freecodecamp
+# proyectos freecodecamp
 Resoluciones a los proyectos propuestos para las certificaciones de freecodecamp
 
  Temario 
