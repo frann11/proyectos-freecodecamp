@@ -15,13 +15,13 @@ Resoluciones a los proyectos propuestos para las certificaciones de freecodecamp
 
 ###Algoritmos de Java y estructura de datos:<br>
 (https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
-- [x]Javascript basico
-- []ES6
-- []Regular Expressions
-- [x]Debugging
-- []Estructuras de datos basicas
-- []Scripting de algoritmos basicos
-- []Programacion orientada a objetos
-- []Programacion funcional
-- []Scripting de algoritmos de nivel intermedio
-- []Proyectos de Algoritmos y estructuras de datos en java
+- Javascript basico
+- ES6
+- Regular Expressions
+- Debugging
+- Estructuras de datos basicas
+- Scripting de algoritmos basicos
+- Programacion orientada a objetos
+- Programacion funcional
+- Scripting de algoritmos de nivel intermedio
+- Proyectos de Algoritmos y estructuras de datos en java
